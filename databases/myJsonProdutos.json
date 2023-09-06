@@ -1,0 +1,184 @@
+{
+    "HBOMax": {
+        "idproduto": "HBOMax",
+        "nome": "HBO Max",
+        "desc": "✅ HBO Max Mensal\n✅ Plano multitelas (melhor plano da HBO)\n✅ Qualidade de Streaming perfeita\n✅ Conta full acesso, é só sua\n✅Email e senha alterável",
+        "preco": "4.00",
+        "conta": []
+    },
+    "NitroGamingMensalLink": {
+        "idproduto": "NitroGamingMensalLink",
+        "nome": "Nitro Gaming Mensal por Link",
+        "desc": "✅ Nitro Gaming Mensal\n✅ 2 Booster\n✅ Só funciona em conta que nunca teve Nitro\n✅ Precisa de cartão e conta com no mínimo 5 minutos para ativar",
+        "preco": "1.80",
+        "conta": []
+    },
+    "metodonitro": {
+        "idproduto": "metodonitro",
+        "nome": "Método Nitro",
+        "desc": "✅ Método Nitro barato\n✅ Nitro Gaming R$7\n✅ Nitro Basic R$3\n✅ Você compra pelo próprio discord\n✅ Funciona em conta que já teve nitro antes\n✅ Funciona no mobile",
+        "preco": "5.00",
+        "conta": [
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro",
+            "Compra realizada, chame o Bino no privado para receber seu método nitro"
+        ]
+    },
+    "metodohbo": {
+        "idproduto": "metodohbo",
+        "nome": "Método HBO Max",
+        "desc": "✅ Método HBO Max Mensal\n✅ Conta em 5 minutos\n✅ Plano multitelas (melhor plano da HBO)\n✅ Sem risco da conta cair\n✅ Não usa cartão e não precisa pagar nada",
+        "preco": "3.00",
+        "conta": [
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu método HBO Max",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu método HBO Max",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu método HBO Max",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu método HBO Max",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu método HBO Max",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu método HBO Max",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu método HBO Max",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu método HBO Max"
+        ]
+    },
+    "nitrotrimensal": {
+        "idproduto": "nitrotrimensal",
+        "nome": "Nitro Trimensal",
+        "desc": "✅ Link Nitro Trimensal\n✅ Precisa ativar\n✅ 2 Boost\n✅ Funciona em conta com 30 dias de criação",
+        "preco": "6.00",
+        "conta": []
+    },
+    "steamkey": {
+        "idproduto": "steamkey",
+        "nome": "Steam Key Aleatória",
+        "desc": "✅ Pode vir qualquer jogo da steam, 99,99% dos jogos são pagos.",
+        "preco": "2.00",
+        "conta": []
+    },
+    "xboxgamepass": {
+        "idproduto": "xboxgamepass",
+        "nome": "Xbox GamePass PC",
+        "desc": "✅Xbox GamePass PC para contas que nunca tiveram assinatura xbox, resgate em: https://redeem.microsoft.com",
+        "preco": "3.00",
+        "conta": [
+            "Q2F77-DC942-J76Y3-MR3D3-TW9QZ"
+        ]
+    },
+    "ativacao": {
+        "idproduto": "ativacao",
+        "nome": "Ativação Nitro",
+        "desc": "⚠️ Após realizar a compra chamar o Bino no privado!",
+        "preco": "2.10",
+        "conta": [
+            "Chamar o Bino no privado para prosseguir com a sua tivação",
+            "Chamar o Bino no privado para prosseguir com a sua tivação",
+            "Chamar o Bino no privado para prosseguir com a sua tivação",
+            "Chamar o Bino no privado para prosseguir com a sua tivação",
+            "Chamar o Bino no privado para prosseguir com a sua tivação",
+            "Chamar o Bino no privado para prosseguir com a sua tivação",
+            "Chamar o Bino no privado para prosseguir com a sua tivação"
+        ]
+    },
+    "nitrogaming": {
+        "idproduto": "nitrogaming",
+        "nome": "Nitro Gaming Mensal",
+        "desc": "✅ Preciso entrar na conta\n✅ Funciona em conta que já teve Nitro\n✅ Se tem medo de scam nem chama\n✅ Não é ativação de link promocional!",
+        "preco": "12.00",
+        "conta": [
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro."
+        ]
+    },
+    "nitrobasic": {
+        "idproduto": "nitrobasic",
+        "nome": "Nitro Basic",
+        "desc": "✅ Preciso entrar na conta\n✅ Funciona em conta que já teve Nitro\n✅ Se tem medo de scam nem chama\n✅ Não é ativação de link promocional!",
+        "preco": "6.50",
+        "conta": [
+            "Compra realizada com sucesso, chame o Bino para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino para pegar seu nitro."
+        ]
+    },
+    "nitrogaminganual": {
+        "idproduto": "nitrogaminganual",
+        "nome": "Nitro Gaming Anual",
+        "desc": "✅ Preciso entrar na conta\n✅ Funciona em conta que já teve Nitro\n✅ Se tem medo de scam nem chama\n✅ Não é ativação de link promocional!",
+        "preco": "83.00",
+        "conta": [
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro.",
+            "Compra realizada com sucesso, chame o Bino no privado para pegar seu nitro."
+        ]
+    },
+    "crunch": {
+        "idproduto": "crunch",
+        "nome": "Crunchyroll",
+        "desc": "⚠️ Não pode mudar a senha ou gmail se não a conta corre risco de cair\n⚠️ Não pode ter mais de 2 dispositivos logados na conta, corre risco de cair\n✅ Conta só sua, de mais ninguém",
+        "preco": "6.00",
+        "conta": []
+    },
+    "spotify": {
+        "idproduto": "spotify",
+        "nome": "Spotify Premium Mensal",
+        "desc": "✅ Adicono na família por 1 mês\n✅ Ao realizar a compra mandar seu email no privado para a ativação",
+        "preco": "6.00",
+        "conta": [
+            "Compra realizada com sucesso, chame o Bino no privado para prosseguir com seu spotify premium.",
+            "Compra realizada com sucesso, para prosseguir com seu spotify premium mensal chame o Bino no privado",
+            "Compra realizada com sucesso, para prosseguir com seu spotify premium mensal chame o Bino no privado",
+            "Compra realizada com sucesso, para prosseguir com seu spotify premium mensal chame o Bino no privado",
+            "Compra realizada com sucesso, para prosseguir com seu spotify premium mensal chame o Bino no privado",
+            "Compra realizada com sucesso, para prosseguir com seu spotify premium mensal chame o Bino no privado"
+        ]
+    },
+    "steam20": {
+        "idproduto": "steam20",
+        "nome": "Key Aleatória Steam Premium",
+        "desc": "✅ Steam key aleatória de jogos que custam mais de 20 reais na steam, key de qualidade e alta chance de vir jogos famosos.",
+        "preco": "5.00",
+        "conta": [
+            "Q55NH-G05IY-RLXVA",
+            "R0I3Z-IWZY7-RYIAR",
+            "MBL7F-GEMC2-6IKEM"
+        ]
+    },
+    "caixa": {
+        "idproduto": "caixa",
+        "nome": "Caixa Pix",
+        "desc": "✅ Pix de 0,50\n✅ Pix de 1 \n✅ Pix de 1,50\n✅ Pix de 3\n✅ Pix de 5 \n✅ Pix de 9\n✅ Pix de 10\n✅ Pix de 12\n✅ Pix de 15\n✅ Pix de 20",
+        "preco": "2.50",
+        "conta": [
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro",
+            "Parabéns você ganhou R$0,50. Abra um ticket para receber seu dinheiro"
+        ]
+    }
+}

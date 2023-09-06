@@ -1,0 +1,14 @@
+{
+    "CUPOM10BOOSTERS": {
+        "idcupom": "CUPOM10BOOSTERS",
+        "quantidade": "99",
+        "minimo": "2",
+        "desconto": "10"
+    },
+    "RyanGay": {
+        "idcupom": "RyanGay",
+        "quantidade": "5",
+        "minimo": "2",
+        "desconto": "20"
+    }
+}

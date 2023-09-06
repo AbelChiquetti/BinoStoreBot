@@ -1,0 +1,20 @@
+{
+    "WBSYYHPWVTQP": {
+        "idgift": "WBSYYHPWVTQP",
+        "status": "Resgatado"
+    },
+    "BDAEBDSXNDPV": {
+        "idgift": "BDAEBDSXNDPV",
+        "status": "Disponivel",
+        "estoque": [
+            ".criados"
+        ]
+    },
+    "TUUXTQOORDCI": {
+        "idgift": "TUUXTQOORDCI",
+        "status": "Disponivel",
+        "estoque": [
+            ".estoque NitroGaming"
+        ]
+    }
+}
